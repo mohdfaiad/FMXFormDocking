@@ -39,17 +39,13 @@ Difficulty level - Low.
     they were created at design time.
 
 So if you will be reusing the ‘**Dockedto**’ as the parent to add and remove
-different forms,
+different forms...
 
->   a new step will need to be added else further docking will result in the
->   loaded form’s children being overlaid on each other resulting in an unusable
->   mess.
+**Read my blog** to get all the information on how to impliment docking:-
+[Delphi-FMX-form-docking](https://bayeseanblog.com/blog/delphi-fmx-form-docking/17)
 
-Read my blog to get the full information on how to impliment docking:-
-[](https://bayeseanblog.com/blog/delphi-fmx-form-docking/17)
 
-[Delphi-FMX-form-docking](media/f95a892a100ee0af7c77fdebee23cae3.png)
-
+![](media/f95a892a100ee0af7c77fdebee23cae3.png)
 
 ![](media/c9c865d333eecdd2804d8c67665d89ff.png)
 
